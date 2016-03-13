@@ -33,11 +33,12 @@ apt-get install git
 ```
 2- install shortten-url program and run:
 ```
-git https://github.com/magic-coding/shortten-url.git
+git clone https://github.com/magic-coding/shortten-url.git
+cp shortten-url/cut.py ~
 ```
 3- Edit `cut.py` and add your Goo.gl & Bit.ly api:
 ```
-vi cut.py
+vi urlcut.py
 ```
 4- Run `cut.py` file and Enjoy..
 ```
