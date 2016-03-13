@@ -38,7 +38,11 @@ cp shortten-url/cut.py ~
 ```
 3- Edit `cut.py` and add your Goo.gl & Bit.ly api:
 ```
-vi urlcut.py
+vi cut.py
+```
+or
+```
+nano cut.py
 ```
 4- Run `cut.py` file and Enjoy..
 ```
