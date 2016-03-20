@@ -57,3 +57,6 @@ Please open new issue or conatct with me via Twitter [@magic_coding](http://www.
 **Conclusion**
 
 In Conclusion hope you enjoy with this small programe and don't forget to follow me to get more free open source programes.
+
+**License:**
+As of March 20, 2016 shorten-url is licensed under the GPLv3+: http://choosealicense.com/licenses/gpl-3.0
